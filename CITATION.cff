@@ -8,7 +8,7 @@ message: >-
   from this file.
 type: dataset
 authors:
-  - given-names: Haoliang (Jack)
+  - given-names: Haoliang
     family-names: Hu
 repository-code: >-
   https://github.com/haolianghu/Scikit-learn-AI-Risk-Project/tree/main
