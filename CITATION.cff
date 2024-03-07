@@ -1,7 +1,14 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use anything in this repository, please cite it as below."
+title: AI Data Cleaned
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
 authors:
-  - family-names: Hu
-    given-names: Haoliang (Jack)
-title: "AI Risk Project"
-date-released: 2024-03-06
+  - given-names: Haoliang (Jack)
+    family-names: Hu
+repository-code: >-
+  https://github.com/haolianghu/Scikit-learn-AI-Risk-Project/blob/main/AI%20Data%20Cleaned.xlsx
